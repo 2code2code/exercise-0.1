@@ -3,5 +3,6 @@ public class Sampoerna {
         int b=23;
         int c=24;
         System.out.println(c);
+        System.out.println(b);
     }
 }
